@@ -1,13 +1,13 @@
-package com.example.demo;
+package com.real.interview;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class JavaBackendInterviewApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(JavaBackendInterviewApplication.class, args);
 	}
 
 }
