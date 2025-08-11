@@ -29,3 +29,6 @@ Once you have successfully completed these steps, your development environment w
 ---
 
 Thank you for your time—we look forward to your interview! 🚀
+
+Go to the route /absproxy/8081
+and for h2-console /absproxy/8081/h2-console
